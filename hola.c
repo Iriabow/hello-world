@@ -6,7 +6,7 @@ int main(){
 printf("hey capulloererererer");
 
 printf("hey capulleeeen");
-
+//buajajaa
 dddddd
 return 0;
 
